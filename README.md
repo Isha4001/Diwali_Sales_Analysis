@@ -2,7 +2,9 @@
 
 ## PROJECT OBJECTIVE
 To conduct a comprehensive analysis of Diwali sales, and product trends using various libraries in Python to identify key insights and opportunities for business optimization.
+
 ###Tech Stack: Python | Pandas | Seaborn | Matplotlib | Jupyter. 
+
 ###Key Insights: Best-selling products, top-spending age groups, and city-wise sales.
 
 ## DATASET USED
